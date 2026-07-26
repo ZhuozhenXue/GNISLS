@@ -1,4 +1,4 @@
-# GNISLS
+# SRSTLS
 
 Main Examples
 SimEMT_Noiseless_Github.py – Generates noiseless simulated data and performs network inference. No smoothing is applied since no noise is added.
